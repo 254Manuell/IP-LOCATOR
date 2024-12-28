@@ -31,8 +31,9 @@ python ip_locator.py
 
 ## Technologies 🛠
 - Python 3.x
-- Geolocation APIs
+- Geolocation APIs("REQUIRED FOR ACCURATE ACCESS AND REPRESENTATION")
 - Data visualization tools
+- Wireshark Network Diagnosis Tool
 
 ## Contribution 🤝
 Feel free to fork this repository, make changes, and submit a pull request.
